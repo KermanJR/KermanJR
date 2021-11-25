@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://github.com/KermanJR" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kermanjr&theme=dark&title_color=blue"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kermanjr&theme=dark&title_color=blue&show_icons=true"/>
 
 
 </div>
