@@ -6,6 +6,8 @@
    <img style="height: 198px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kermanjr&theme=algolia&layout=compact"/>
  
 </div>
+</br>
+
 <div class="info">
         <a href="https://web.facebook.com/kerman.pereira/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a> 
         <a href="https://www.instagram.com/kermanpereira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
