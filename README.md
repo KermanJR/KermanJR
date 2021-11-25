@@ -3,7 +3,7 @@
 <div style="display: flex">
   <a href="https://github.com/KermanJR" />
   <img  src="https://github-readme-stats.vercel.app/api?username=kermanjr&theme=algolia&show_icons=true"/>
-   <img style="height: 200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kermanjr&theme=algolia&layout=compact"/>
+   <img style="height: 195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kermanjr&theme=algolia&layout=compact"/>
  
 </div>
 <div class="info">
