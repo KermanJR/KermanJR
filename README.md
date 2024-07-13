@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Sul Sul-Mato-Grossense, tenho 24 anos e sou <strong>Desenvolvedor | Frontend</strong>.
+  Sou Sul Sul-Mato-Grossense, tenho 24 anos e sou <strong>Desenvolvedor | Full Stack</strong>.
 
 Possuo 3 anos de experiência em programação web, passei por 2 empresas diferentes e obtive muitos conhecimentos, sou uma pessoa muito dedicada em tudo o que faço. Atualmente estou no último ano do curso de Ciência da Computação na UFMS (Universidade Federal de Mato Grosso do SUL), estou empenhado em aprimorar minhas habilidades como desenvolvedor. 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
